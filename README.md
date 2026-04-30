@@ -1,5 +1,5 @@
 #  About Me:
-### 👋 Hi, I'm Deeptanshu Gorai<br><br> Passionate Software Developer focused on building scalable, real-world applications.<br><br>Currently, I am:<br><br>*  Learning and building with **Flutter (Mobile Apps)**<br>*  Developing backend systems using **Spring Boot & Microservices**<br>*  Exploring **Cloud & Deployment (AWS, scalable systems)**<br>*  Exploring **AI/ML concepts and integrating intelligence into applications**<br><br>I aim to become a **well-rounded backend + system engineer** capable of building production-grade applications with intelligent features.<br><br>---<br><br>
+### 👋 Hi, I'm Deeptanshu Gorai<br><br> Passionate Software Developer focused on building scalable, real-world applications.<br><br>Currently, I am:<br><br>*  Learning and building with **Flutter (Mobile Apps)**<br>*  Developing backend systems using **Spring Boot & Microservices**<br>*  Exploring **Cloud & Deployment (AWS, scalable systems)**<br>*  Exploring **AI/ML concepts and integrating intelligence into applications**<br><br>I aim to become a **well-rounded backend + system engineer** capable of building production-grade applications with intelligent features.
 
 
 ## 🌐 Socials:
